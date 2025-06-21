@@ -7,6 +7,7 @@ REQUISITOS:
 - Plantilla Word con campos {{llave}} correctamente escritos
 
 PASOS PARA USO:
+(El ejecutable final estará en: dist/GeneradorFVS.exe)
 1. Abrir el programa (doble clic en el ejecutable)
 2. Cargar el archivo Excel cuando se solicite
 3. Seleccionar un ID / Posición del menú desplegable
